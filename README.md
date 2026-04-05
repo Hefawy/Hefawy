@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hefawy&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hefawy&theme=tokyonight"/>
+  <img src="https://stats.vercel.app/api?username=Hefawy&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://stats.vercel.app/api/top-langs/?username=Hefawy&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 ---
 
