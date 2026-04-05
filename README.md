@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hefawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hefawy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hefawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hefawy&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
