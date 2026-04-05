@@ -63,8 +63,4 @@
 
 ## 🟩 Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hefawy/Hefawy/main/images/graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hefawy/Hefawy/main/images/graph-light.svg">
-  <img alt="graph" src="https://raw.githubusercontent.com/Hefawy/Hefawy/main/images/graph-light.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake.svg" alt="Snake animation" />
