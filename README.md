@@ -63,8 +63,10 @@
 
 ## 🟩 Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Hefawy/Hefawy/output/snake.svg">
+  </picture>
+</div>
