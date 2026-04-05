@@ -1,4 +1,4 @@
-name: Snake
+name: Snake G
 
 on:
   workflow_dispatch:
