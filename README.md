@@ -64,10 +64,10 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-ali-abdallah">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 30px;"/>
   </a>
   <a href="mailto:MohammadDevJobs@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" style="margin: 30px;"/>
   </a>
 </p>
 
