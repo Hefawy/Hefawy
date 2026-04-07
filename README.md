@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D47A1,100:42A5F5&text=Mohammad%20Abdallah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=.NET+Developer;Backend+Developer;SQL+Server+Expert;API+&+Integration+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=.NET+Developer;Backend+Developer;SQL+Server+Expert;API+%26+Integration+Specialist" />
 </p>
 
 ## 📌 About Me
