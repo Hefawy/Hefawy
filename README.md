@@ -24,16 +24,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Hefawy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hefawy&show_icons=true&theme=tokyonight&border_radius=10" />
-  </a>
-  <img src="https://streak-stats.demolab.com?user=Hefawy&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Hefawy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+<p align="center"> <a href="https://github.com/Hefawy"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hefawy&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Hefawy's GitHub Stats" /> </a> <img src="https://streak-stats.demolab.com/?user=Hefawy&theme=dark&hide_border=true&cache_seconds=86400" alt="Hefawy's GitHub Streak" width="49%" /> </p> <p align="center"> <img src="https://trophy.ryglcloud.net/?username=Hefawy&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mohammad Abdallah's GitHub Trophies" /> </p>
 
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
