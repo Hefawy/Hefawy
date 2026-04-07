@@ -63,10 +63,11 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-ali-abdallah" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/mohammad-ali-abdallah">
     <img src="https://cdn.simpleicons.org/linkedin" width="40"/>
   </a>
-  <a href="mailto:MohammadDevJobs@gmail.com" style="margin: 0 20px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:MohammadDevJobs@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="40"/>
   </a>
 </p>
