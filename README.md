@@ -1,15 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammad%20Abdallah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=hhh" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=.NET+Developer;Backend+Engineer;SQL+Server+Expert;API+&+Integration+Specialist" />
 </p>
 
 ## 📌 About Me
-- d
-
+- 💻 Software Developer with hands-on experience in Telecom, Insurance, and QMS systems
+- ⚙️ Specialized in ASP.NET Core, C#, and SQL Server
+- 🔧 Strong in debugging, troubleshooting, and optimizing backend systems
+- 🔄 Experienced in building scalable REST APIs and integrating external systems
+- 🗄️ Skilled in writing complex SQL queries, stored procedures, and performance tuning
+- 🔌 Worked on Windows Services for data synchronization and system integration
+- 🚀 Passionate about building clean, efficient, and scalable applications
 
 ## 🧠 My Focus Areas
-- d
+- ⚙️ Backend Development (.NET Core / ASP.NET MVC / Web API)
+- 🗄️ Database Design & Optimization (SQL Server, Stored Procedures)
+- 🔌 System Integration (APIs, External Services)
+- 🏢 Enterprise Systems (QMS, Insurance, Telecom)
+- 🔄 Windows Services & Background Jobs
+- 🚀 Performance Optimization & Debugging
+- 🧩 Clean Architecture & Best Practices
 
 
 ## 📊 GitHub Stats & Trophies
@@ -31,22 +42,50 @@
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+</p>
 
 > ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50"/>
+</p>
 
 > ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="50"/>
+</p>
 
 > ## DevOps & Cloud
-<p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-iis.svg" width="50"/>
+</p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="50"/>
+</p>
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="https://wa.me/9620791125284" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-ali-abdallah">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40"/>
+  </a>
+  <a href="mailto:MohammadDevJobs@gmail.com">
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40"/>
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
