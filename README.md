@@ -29,46 +29,56 @@
 > ## Programming Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="margin: 10px;"/>
 </p>
 
 > ## Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" style="margin: 10px;"/>
 </p>
 
 > ## Database
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="50" style="margin: 10px;"/>
 </p>
 
 > ## DevOps & Cloud
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" style="margin: 10px;"/>
 </p>
 
 > ## Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" style="margin: 10px;"/>
 </p>
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-ali-abdallah">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 30px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:MohammadDevJobs@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="40"/>
+    <img src="https://cdn.simpleicons.org/gmail" width="40" style="margin: 30px;"/>
   </a>
 </p>
 
