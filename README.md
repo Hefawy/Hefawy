@@ -73,7 +73,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-ali-abdallah">
+  <a href="https://www.linkedin.com/in/7efawy">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 30px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
