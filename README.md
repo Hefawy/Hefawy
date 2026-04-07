@@ -81,7 +81,7 @@
     <img src="https://cdn.simpleicons.org/gmail" width="40" style="margin: 30px;"/>
   </a>
 </p>
-
+<div style="height: 30px;"></div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
